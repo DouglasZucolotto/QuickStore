@@ -1,1 +1,1 @@
-# QuickStore-
+# QuickStore
